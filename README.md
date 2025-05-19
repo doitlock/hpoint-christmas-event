@@ -15,5 +15,5 @@ HTML, SCSS, JavaScript (Vanilla), GSAP(ScrollToPlugin, ScrollTrigger), Swiper, L
 
 📸 **주요 화면 캡처**
 > 📌 리뉴얼 또는 폐쇄 가능성이 있어 화면 캡처 보관
-> ![메인 페이지](./screenshots/main.gif)  
+> ![메인 페이지](screenshots/main.gif)  
 
