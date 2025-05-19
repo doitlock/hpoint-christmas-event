@@ -15,5 +15,5 @@ HTML, SCSS, JavaScript (Vanilla), GSAP(ScrollToPlugin, ScrollTrigger), Swiper, L
 
 📸 **주요 화면 캡처**
 > 📌 페이지가 폐쇄 되어 화면 캡처 보관
-> ![메인 페이지](https://github.com/doitlock/hpoint-christmas-event/blob/main/screenshots/main.gif)  
+![메인 페이지](https://github.com/doitlock/hpoint-christmas-event/blob/main/screenshots/main.gif)  
 
