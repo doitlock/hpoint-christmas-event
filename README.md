@@ -14,6 +14,6 @@
 HTML, SCSS, JavaScript (Vanilla), GSAP(ScrollToPlugin, ScrollTrigger), Swiper, Lenis, Nice-select, bootstrap 5.3.3, Figma
 
 📸 **주요 화면 캡처**
-> 📌 리뉴얼 또는 폐쇄 가능성이 있어 화면 캡처 보관
-> ![메인 페이지](screenshots/main.gif)  
+> 📌 페이지가 폐쇄 되어 화면 캡처 보관
+> ![메인 페이지](https://github.com/doitlock/hpoint-christmas-event/blob/main/screenshots/main.gif)  
 
